@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 /**
-* Easy because of my previous experience with
-* C and PHP
+* Easy due to my previous experience
+* with C and PHP
 */
 func main() {
   book := book{}
